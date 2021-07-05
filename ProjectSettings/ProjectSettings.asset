@@ -592,6 +592,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     1: OCULUSINTEGRATION_PRESENT
     7: OCULUSINTEGRATION_PRESENT
+    14: 
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:

@@ -186,4 +186,9 @@ public class OVRTracker
 				return false;
 		}
 	}
+
+    public Quaternion GetPose(int v, ref object riftRotation)
+    {
+        throw new NotImplementedException();
+    }
 }
